@@ -1,0 +1,8 @@
+.map__container {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    height: 41px;
+    block-size: 0;
+    cursor: pointer;
+}

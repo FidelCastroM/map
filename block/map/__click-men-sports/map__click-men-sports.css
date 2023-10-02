@@ -1,0 +1,35 @@
+.map__click-men-sports {
+    position: absolute;
+    top: 62%;
+    left: 68%;
+}
+
+@media screen and (max-width: 1600px) and (max-height: 1200px) {
+    .map__click-men-sports {
+        left: 72%;
+    }
+}
+
+@media screen and (max-width: 1600px) and (max-height: 900px) {
+    .map__click-men-sports {
+        left: 67%;
+    }
+}
+
+@media screen and (max-width: 1440px) and (max-height: 900px) {
+    .map__click-men-sports {
+        left: 70%;
+    }
+}
+
+@media screen and (max-width: 1280px) and (max-height: 1024px) {
+    .map__click-men-sports {
+        left: 74%;
+    }
+}
+
+@media screen and (max-width: 1280px) and (max-height: 768px) {
+    .map__click-men-sports {
+        left: 69%;
+    }
+}

@@ -1,0 +1,59 @@
+.map__container-house {
+  position: absolute;
+  top: 18%;
+  left: 72%;
+}
+
+@media screen and (max-width: 1680px) and (max-height: 1050px) {
+  .map__container-house {
+    left: 74%;
+  }
+}
+
+@media screen and (max-width: 1600px) and (max-height: 1200px) {
+  .map__container-house {
+    left: 78%;
+  }
+}
+
+@media screen and (max-width: 1600px) and (max-height: 1024px) {
+  .map__container-house {
+    left: 74%;
+  }
+}
+
+@media screen and (max-width: 1600px) and (max-height: 900px) {
+  .map__container-house {
+    left: 71%;
+  }
+}
+
+@media screen and (max-width: 1536px) and (max-height: 1024px) {
+  .map__container-house {
+    left: 75%;
+  }
+}
+
+@media screen and (max-width: 1536px) and (max-height: 960px) {
+  .map__container-house {
+    left: 73%;
+  }
+}
+
+@media screen and (max-width: 1440px) and (max-height: 900px) {
+  .map__container-house {
+    left: 74%;
+  }
+}
+
+@media screen and (max-width: 1280px) and (max-height: 1024px) {
+  .map__container-house {
+    left: 80%;
+  }
+}
+
+@media screen and (max-width: 1280px) and (max-height: 768px) {
+  .map__container-house {
+    left: 73%;
+  }
+}

@@ -1,0 +1,8 @@
+.popup__minus-container {
+    max-width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0 15px 0 15px;
+}

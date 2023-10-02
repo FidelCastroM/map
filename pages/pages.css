@@ -1,0 +1,42 @@
+/* html */
+@import url(../block/html/html.css);
+
+/* resurse */
+@import url(../block/body/body.css);
+
+/* map */
+@import url(../block/map/map.css);
+@import url(../block/map/__container/map__container.css);
+@import url(../block/map/__click/map__click.css);
+@import url(../block/map/__click-administration/map__click-administration.css);
+@import url(../block/map/__click-bridge/map__click-bridge.css);
+@import url(../block/map/__click-dormitory/map__click-dormitory.css);
+@import url(../block/map/__click-food/map__click-food.css);
+@import url(../block/map/__click-hotel/map__click-hotel.css);
+@import url(../block/map/__click-house/map__click-house.css);
+@import url(../block/map/__click-men-sports/map__click-men-sports.css);
+@import url(../block/map/__click-office/map__click-office.css);
+@import url(../block/map/__click-stadium/map__click-stadium.css);
+@import url(../block/map/__click-women-sports/map__click-women-sports.css);
+@import url(../block/map/__container-dormitory/map__container-dormitory.css);
+@import url(../block/map/__container-stadium/map__container-stadium.css);
+@import url(../block/map/__container-bridge/map__container-bridge.css);
+@import url(../block/map/__container-office/map__container-office.css);
+@import url(../block/map/__container-hotel/map__container-hotel.css);
+@import url(../block/map/__container-house/map__container-house.css);
+@import url(../block/map/__container-administration/map__container-administration.css);
+@import url(../block/map/__container-food/map__container-food.css);
+@import url(../block/map/__container-women-sports/map__container-women-sports.css);
+@import url(../block/map/__container-men-sports/map__container-men-sports.css);
+
+/* popup */
+@import url(../block/popup/popup.css);
+@import url(../block/popup/__container/popup__container.css);
+@import url(../block/popup/__container/_green/popup__contqainer_green.css);
+@import url(../block/popup/__container/_blue/popup__container_blue.css);
+@import url(../block/popup/__minus-container/popup__minus-container.css);
+@import url(../block/popup/__minus/popup__minus.css);
+@import url(../block/popup/__text-container/popup__text-container.css);
+@import url(../block/popup/__text/popup__text.css);
+@import url(../block/popup/_opened/popup_opened.css);
+@import url(../block/map/__click/_opened/map__click_opened.css);

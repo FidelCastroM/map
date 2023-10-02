@@ -1,0 +1,41 @@
+.map__click-office {
+    position: absolute;
+    top: 60%;
+    left: 56%;
+}
+
+@media screen and (max-width: 1600px) and (max-height: 1200px) {
+    .map__click-office {
+        left: 58%;
+    }
+}
+
+@media screen and (max-width: 1600px) and (max-height: 1024px) {
+    .map__click-office {
+        left: 57%;
+    }
+}
+
+@media screen and (max-width: 1600px) and (max-height: 900px) {
+    .map__click-office {
+        left: 56%;
+    }
+}
+
+@media screen and (max-width: 1440px) and (max-height: 900px) {
+    .map__click-office {
+        left: 56%;
+    }
+}
+
+@media screen and (max-width: 1280px) and (max-height: 1024px) {
+    .map__click-office {
+        left: 59%;
+    }
+}
+
+@media screen and (max-width: 1280px) and (max-height: 768px) {
+    .map__click-office {
+        left: 56%;
+    }
+}
